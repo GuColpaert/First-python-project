@@ -12,7 +12,7 @@
 ```
   Este projeto foi realizado para armazenar e exibir meu progresso e aprendizado na linguagem de programação python.
 
-                                    realizado na plataforma de cursos alura.
+                 Se trata de um JOGO DE ADIVINHAÇÃO, realizado pela plataforma de cursos alura.
 ```
 
 <h2>:upside_down_face: O que estou aprendendo nesta Formação?</h2>
