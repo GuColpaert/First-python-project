@@ -17,7 +17,7 @@
 
 # :ghost:	Progresso
 
-`Jogo de adivinhação` - Concluido :white_check_mark:	
+`Jogo de adivinhação` - Concluido :white_check_mark: <br>	
 `Jogo da forca` - Em andamento :warning:
 
 <h2>:upside_down_face: O que estou aprendendo nesta Formação?</h2>
