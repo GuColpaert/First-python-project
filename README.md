@@ -12,8 +12,13 @@
 ```
   Este projeto foi realizado para armazenar e exibir meu progresso e aprendizado na linguagem de programação python.
 
-                 Se trata de um JOGO DE ADIVINHAÇÃO, realizado pela plataforma de cursos alura.
+                         Se trata de jogos, realizado pela plataforma de cursos alura.
 ```
+
+# :ghost:	Progresso
+
+`Jogo de adivinhação` - Concluido :white_check_mark: <br>	
+`Jogo da forca` - Em andamento :warning:
 
 <h2>:upside_down_face: O que estou aprendendo nesta Formação?</h2>
 
